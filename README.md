@@ -12,4 +12,15 @@ Quadrotor project for the tenure 2018-19. This repository is to maintain and man
 - [ ] Hardware design.
 - [ ] Frame Checks. 3D modelled frame designs.
 
+### Hardware Needed
+- [x] Arduino Uno
+- [x] MPU 6050 Gyroscope
+- [ ] Futaba 7 Channel Receiver
+- [ ] Brushless DC Motors
+- [ ] 30A ESC
+- [ ] 4 Channel I2C safe Logic level controller BSS138
+- [ ] Flight controller
+
+### Tasks
+- [ ] Learn about feedback control and understand the IMU Gyro units.
 **More details will be updated soon..**
